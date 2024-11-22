@@ -8,4 +8,9 @@ This Power BI dashboard provides an interactive analysis of JioMart sales data, 
 
 ### Dashboard
 
--<a href = "">Dataset </a>
+-<a href = "https://github.com/Snehavyas/JioMart_Sales_Dashboard/blob/main/Jio%20Mart%20Sales%20dashboard.pdf">Dashboard </a>
+
+
+![image](https://github.com/user-attachments/assets/b1958c2e-28e0-48ea-8f02-c4c242b0b2b2)
+
+
