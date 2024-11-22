@@ -4,4 +4,8 @@ This Power BI dashboard provides an interactive analysis of JioMart sales data, 
 
 
 ### Dataset Used
--<a href = "https://www.kaggle.com/datasets/devarajv88/target-dataset/data">Dataset </a>
+-<a href = "https://github.com/Snehavyas/JioMart_Sales_Dashboard/blob/main/JioMart_Sales_Dataset.csv">Dataset </a>
+
+### Dashboard
+
+-<a href = "">Dataset </a>
